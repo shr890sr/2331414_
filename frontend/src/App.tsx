@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Shakibur Rahman</h1>
+      <h1> Shakibur Rahman </h1>
       <form onSubmit={handleSubmit}>
         <input
           value={name}
